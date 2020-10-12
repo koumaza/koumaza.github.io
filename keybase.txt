@@ -1,109 +1,64 @@
 ==================================================================
-
 https://keybase.io/koumaza
-
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://koumaza.github.io
-
   * I am koumaza (https://keybase.io/koumaza) on keybase.
-
   * I have a public key with fingerprint 956C 6E2A FDF9 A109 8E30  863E F38C C60A 8CFB 5469
 
 To do so, I am signing this object:
 
 {
-
   "body": {
-
     "key": {
-
       "eldest_kid": "01208c16a227e101e412ad0ca0e77dc2bfa14a78e98ebb8ab023445626ec8447a7750a",
-
       "fingerprint": "956c6e2afdf9a1098e30863ef38cc60a8cfb5469",
-
       "host": "keybase.io",
-
       "key_id": "f38cc60a8cfb5469",
-
       "kid": "011387c44b362a7c7e6ec976af5623de7e89efdee9e0063f57b6a938b8909f2df9510a",
-
       "uid": "3a0b41d83c4d30ce9ad1bd5b91adef19",
-
       "username": "koumaza"
-
     },
-
     "service": {
-
       "hostname": "koumaza.github.io",
-
       "protocol": "https:"
-
     },
-
     "type": "web_service_binding",
-
     "version": 1
-
   },
-
   "ctime": 1602491914,
-
   "expire_in": 157680000,
-
   "prev": "c786f69b2fa0627ffadb2baea51b3ab37726f79c03c6f165b5265f7f7781010f",
-
   "seqno": 74,
-
   "tag": "signature"
-
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-
 Version: Keybase OpenPGP v2.1.13
-
 Comment: https://keybase.io/crypto
 
 yMG9AnicbZJLSFVBGMev5gNvJoJQUBR41iIzZ+bM4y5cCe2CoHW3ed57Uu+5nXOu
-
 ZiIhVCBJ0MZVgdrKZa1rkfjAJGiRET3oJu7CCIzsYdScWy6CZjPMzP///37f8C0f
-
 OZTL9+zOrOZnfpwLmzYe36nliteO5ic8GelxrzDhDZnGZoa1SdLiUKi9ggegD5iC
-
 RPg+NRBAg6EvNFACGEq18qUVEAvKDGdGSiYk8BHGAfGJUQxjKigNgPD6PBtWSiau
-
 xmEldbE8IIoYX1htuYDAmRFgBBmLmFIECKasDDDhzliOkszh4KRITH8YuTt3KDbw
-
 /qM/4IaIUYWxRMQXVFHjgDglwjo2pA01jBurjeEGAIJsQCURHDHJOODWd1gBbHDX
-
 GnFIAImhZkhhjYAyXGgodSA5FNpYmNWtJSauiBGTsUa1EXFFeJN9nrscDZXJ/jVr
-
 5F9BfylMyzX5p6dqHKWRiobdczlNq0khs6fj1Uw/ZmTxb1JRhhXt/tI5Rk2chFHF
-
 K0CnVGmYRUMCfMwhh7jPM5erYWyKYaYIKGHArayOGXWRijJiCZe+FYD41FqhpS+F
-
 EQGUSEhEqU8s5QogRSwkgQx8ElhqKWVuDID1st4uVSKvQF2pVJRcZhKWKiKtxcab
-
 XJpvyfXkc22tzdmM5fId3QeTN5s0dzSdfhd96l1/urc5c/yB7d3rnBvcWZHTv6bO
-
 DPxcmLct7W/KC/X22al7ty6I4bf4y/7hdlx/UV/ePHa/9eLg682Pi82tp24vbo89
-
 2n1/93rl1cj5tbnN+Grb5ydVfKPlWXVVd9a/769MP/y6/W3D3tw5e6Kr/+TW1ofu
-
 rg3wnKwFSwPo5fpvQygNVQ==
-
 =EoaT
-
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
-
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/koumaza
